@@ -34,17 +34,17 @@ displayrssicon = false
 
 ## Main Menu
 [[menu.main]]
-name = "posts"
-weight = 100
-identifier = "posts"
-url = "posts/"
-[[menu.main]]
 name = "about"
 identifier = "about"
 weight = 200
 url = "about/"
 [[menu.main]]
-name = "projects"
-identifier = "projects"
+name = "must-read books"
+weight = 100
+identifier = "must-reads"
+url = "must-reads/"
+[[menu.main]]
+name = "portfolio"
+identifier = "portfolio"
 weight = 300
-url = "projects/"
+url = "portfolio/"
