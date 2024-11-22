@@ -36,15 +36,15 @@ displayrssicon = false
 [[menu.main]]
 name = "about"
 identifier = "about"
-weight = 200
-url = "about/"
-[[menu.main]]
-name = "must-read books"
 weight = 100
-identifier = "must-reads"
-url = "must-reads/"
+url = "about/"
 [[menu.main]]
 name = "portfolio"
 identifier = "portfolio"
-weight = 300
+weight = 200
 url = "portfolio/"
+[[menu.main]]
+name = "must-read books"
+weight = 300
+identifier = "must-reads"
+url = "must-reads/"
