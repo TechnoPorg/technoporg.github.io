@@ -8,7 +8,7 @@ theme = 'hugo-goa'
 author = "Jonah Janzen"
 intro = "Software Engineering Student"
 description = "UWaterloo Class of 2029"
-authorimage = "headshot.jpg"
+authorimage = "headshot.png"
 dateformat = "Jan 2, 2006"
 
 ## Site Meta Settings
