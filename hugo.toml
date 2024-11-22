@@ -2,3 +2,49 @@ baseURL = 'https://technoporg.github.io/'
 languageCode = 'en-us'
 title = 'Jonah Janzen'
 theme = 'hugo-goa'
+
+## Site Settings
+[params]
+author = "Jonah Janzen"
+intro = "Software Engineering Student"
+description = "UWaterloo Class of 2029"
+authorimage = "headshot.jpg"
+dateformat = "Jan 2, 2006"
+
+## Site Meta Settings
+[params.meta]
+description = "Jonah Janzen: Software Developer"
+keywords = "developer,programmer,intern,blog,gamedev,systems"
+
+## Social Accounts
+[params.social]
+github = "technoporg"
+instagram = "technoporg"
+linkedin = "jonah-janzen"
+youtube = "@technoporg"
+
+## Extras
+[params.extra]
+copyright = "© 2024. Jonah Janzen. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)."
+poweredby = false
+highlightjs = true
+socialmarkup = true
+toc = true
+displayrssicon = false
+
+## Main Menu
+[[menu.main]]
+name = "posts"
+weight = 100
+identifier = "posts"
+url = "posts/"
+[[menu.main]]
+name = "about"
+identifier = "about"
+weight = 200
+url = "about/"
+[[menu.main]]
+name = "projects"
+identifier = "projects"
+weight = 300
+url = "projects/"
