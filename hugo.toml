@@ -6,14 +6,14 @@ theme = 'hugo-goa'
 ## Site Settings
 [params]
 author = "Jonah Janzen"
-intro = "Software Engineering Student"
+intro = "Mechatronics Engineering Student"
 description = "UWaterloo Class of 2029"
 authorimage = "headshot.png"
 dateformat = "Jan 2, 2006"
 
 ## Site Meta Settings
 [params.meta]
-description = "Jonah Janzen: Software Developer"
+description = "Jonah Janzen: Mechatronics Engineering Student"
 keywords = "developer,programmer,intern,blog,gamedev,systems"
 
 ## Social Accounts
