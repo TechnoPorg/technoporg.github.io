@@ -51,6 +51,10 @@ _A page from the new website:_
 
 - https://github.com/godotengine/godot/pull/57205
 
+#### Add support for Windows Management Instrumentation method calls to the wmi-rs crate
+
+- https://github.com/ohadravid/wmi-rs/pull/104
+
 #### Improve GPU detection on systems with hybrid graphics in VKD3D.
 
 - https://github.com/HansKristian-Work/vkd3d-proton/pull/1823
