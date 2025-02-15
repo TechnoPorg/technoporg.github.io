@@ -7,7 +7,7 @@ showpagemeta = false
 
 #### Hi! I'm Jonah, a 🇨🇦/🇩🇪 mechatronics engineering student at the University of Waterloo.
 
-I've worked on developing several different websites, including a web application for the Alberta Natural Resources Conservation Board, but my true passions are operating systems, game development, and quantum computing.
+I've worked on several websites, including a web application for the Alberta Natural Resources Conservation Board, but my true passions are operating systems, rocketry, and quantum computing.
 
 I love free and open-source software, and I contribute to it whenever I'm able.
 

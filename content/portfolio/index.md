@@ -17,30 +17,42 @@ A Minecraft mod for server administrators to easily limit access to a group of t
 
 Created for a personal server, but has since accumulated dozens of downloads on CurseForge and Modrinth without any promotion.
 
-![Discord Verifier](/portfolio/discord-verifier.png)
+![Discord Verifier](/portfolio/discord-verifier.png#center)
 
 Source: https://github.com/IOL-Haven/discord-verifier
+
+{{<spacer height="40px">}}
 
 #### OLCF Website
 
 Replaced previous website for the Canadian Francophone Linguistics Olympiad with a tailor-made WordPress site using custom Gutenberg blocks and theming.
 
-_Old website:_
+![New OLCF Website](/portfolio/olcf-website-landing.png#center)
 
-![Old OLCF Website](/portfolio/old-olcf-website.png)
+![New OLCF Website](/portfolio/olcf-website-iol.png#center)
 
-_A page from the new website:_
+Site: https://linguisti.ca/olclo/wordpress/
 
-![New OLCF Website](/portfolio/olcf-website.png)
 {{<spacer height="40px">}}
 
-# Games
+# Game Jams
 
 ---
 
-#### [Void Scion - Ludum Dare 53](https://ldjam.com/events/ludum-dare/53/void-scion)
+#### Ludum Dare 53 - Void Scion
 
-![Void Scion - Ludum Dare 53](/portfolio/void-scion.png)
+![Void Scion](/portfolio/void-scion.png#center)
+
+Game: https://ldjam.com/events/ludum-dare/53/void-scion
+
+{{<spacer height="40px">}}
+
+#### University of Waterloo Winter 2025 - Thermal Expansion
+
+![Thermal Expansion](/portfolio/thermal-expansion.png#center)
+
+Game: https://technoporg.itch.io/thermal-expansion
+
 {{<spacer height="40px">}}
 
 # Open-Source Contribution Highlights
@@ -65,7 +77,8 @@ _A page from the new website:_
 - https://invent.kde.org/utilities/daykountdown/-/merge_requests/4
 - https://invent.kde.org/clau-cambra/daykountdown-plasmoid/-/merge_requests/2
 - _Note: Currently awaiting code review from the application maintainer._
-  {{<spacer height="40px">}}
+
+{{<spacer height="40px">}}
 
 # Art / Animation
 
@@ -74,8 +87,9 @@ _A page from the new website:_
 #### Gödel's Incompleteness Theorems Explained - 2D Animation
 
 {{<youtube DFirRg5l8Is>}}
+
 {{<spacer height="40px">}}
 
 #### Cabot Tower (St. John's, Newfoundland) - Pencil
 
-![Cabot Tower, St. John's](/portfolio/cabot-tower.png)
+![Cabot Tower, St. John's](/portfolio/cabot-tower.png#center)
